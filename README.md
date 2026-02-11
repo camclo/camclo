@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm building AI-powered fashion visualization 👋
 
-<!--
-**camclo/camclo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Founder at **TechTelligence India** | Building **[CamClo3D](https://camclo3d.com)** - AI Fashion Photography & Visualization Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on **AI-powered fashion visualization** for e-commerce brands
+- 🌱 Building SaaS products: [camclo3d.com](https://camclo3d.com) & sentencerewriter.co
+- 💼 Digital Marketing & SEO Specialist
+- 📍 Based in Indore, India
+
+## 🛠️ Tech Stack
+
+- AI/ML & Automation
+- Node.js, Python, JavaScript
+- n8n workflows & API integrations
+- Digital Marketing & SEO
+
+## 🔗 Connect
+
+- 🌐 Website: [camclo3d.com](https://camclo3d.com)
+- 📧 Email: hello@camclo3d.com
+
+---
+
+💡 *Transforming fashion product photography with AI - No photoshoots needed!*
